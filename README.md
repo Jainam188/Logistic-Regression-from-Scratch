@@ -17,23 +17,18 @@ Also Uploading Dataset
           
 Making Logistic regression from scratch without use of sklearn
 
-defining funtions:
-    
-# Hypothesis using Sigmoid function
+    defining funtions:
 
-# Calculating Loss function
+    Hypothesis using Sigmoid function
+    Calculating Loss function
+    Fit
+    Predict
 
-# Fit
+    After this we can use Logistic Regression as we were using in Sklearn lib
 
-# Predict
-
-After this we can use Logistic Regression as we were using in Sklearn lib
-
-# 1. fitting values in model
-
-# 2. predicting the values
-
-# 3. Final Accuracy
+    1. fitting values in model
+    2. predicting the values
+    3. Final Accuracy
 
 I am getting 77 % by setting iteration = 1000 and setting learning rate 0.01.
 
