@@ -19,10 +19,10 @@ Making Logistic regression from scratch without use of sklearn
 
     defining funtions:
 
-    Hypothesis using Sigmoid function
-    Calculating Loss function
-    Fit
-    Predict
+    #Hypothesis using Sigmoid function
+    #Calculating Loss function
+    #Fit
+    #Predict
 
     After this we can use Logistic Regression as we were using in Sklearn lib
 
@@ -43,3 +43,9 @@ import pandas
 import matplotlib.pyplot
 
 import seaborn
+
+#References:
+
+https://www.kaggle.com/kost13/us-income-logistic-regression/notebook
+
+https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac
